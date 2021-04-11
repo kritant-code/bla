@@ -1,0 +1,33 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+body {
+    background: hsla(110, 93%, 48%, 1);
+
+    background: linear-gradient(315deg, hsla(110, 93%, 48%, 1) 0%, hsla(50, 88%, 52%, 1) 49%, hsla(0, 91%, 66%, 1) 100%);
+
+    background: -moz-linear-gradient(315deg, hsla(110, 93%, 48%, 1) 0%, hsla(50, 88%, 52%, 1) 49%, hsla(0, 91%, 66%, 1) 100%);
+
+    background: -webkit-linear-gradient(315deg, hsla(110, 93%, 48%, 1) 0%, hsla(50, 88%, 52%, 1) 49%, hsla(0, 91%, 66%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#2FEE09", endColorstr="#F1CD1A", GradientType=1);
+    text-align: center
+}
+#text{
+font-family: fantasy;
+    color: black;
+    
+}
